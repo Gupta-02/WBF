@@ -118,7 +118,7 @@ body {
     font-size: var(--font-size-md);
     line-height: var(--line-height-normal);
     color: var(--neutral-800);
-    background-color: beige;
+    background-color: var(--neutral-100);
     overflow-x: hidden;
 }
 
